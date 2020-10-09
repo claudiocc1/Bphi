@@ -1,0 +1,12 @@
+Mass = 0.30 GeV  Pythia Filter eff = 12.97 +/- 0.26 % 
+Mass = 0.40 GeV  Pythia Filter eff = 11.31 +/- 0.26 % 
+Mass = 0.50 GeV  Pythia Filter eff = 9.95 +/- 0.23 % 
+Mass = 0.60 GeV  Pythia Filter eff = 9.31 +/- 0.22 % 
+Mass = 0.75 GeV  Pythia Filter eff = 9.22 +/- 0.22 % 
+Mass = 1.00 GeV  Pythia Filter eff = 9.27 +/- 0.22 % 
+Mass = 1.25 GeV  Pythia Filter eff = 9.63 +/- 0.24 % 
+Mass = 1.50 GeV  Pythia Filter eff = 9.78 +/- 0.23 % 
+Mass = 2.00 GeV  Pythia Filter eff = 10.27 +/- 0.23 % 
+Mass = 2.50 GeV  Pythia Filter eff = 11.07 +/- 0.24 % 
+Mass = 3.00 GeV  Pythia Filter eff = 13.12 +/- 0.26 % 
+Mass = 3.50 GeV  Pythia Filter eff = 14.78 +/- 0.27 % 

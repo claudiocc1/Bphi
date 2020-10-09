@@ -1,0 +1,21 @@
+FONLL pt(B)>5 GeV abd(eta)<2.8:
+sigma = 1.33e+08 + 5.42e+07 - 4.05e+07 pb
+
+filter_efficiency_FONLL_shape.txt :
+-----------------------------------
+The filter efficiency  starting from GEN Pythia
+pt(B)>5 GeV and abs(eta)< 2.8 with the pt(B)
+distribution reshaped to FONLL (central/up/down)
+to require two GEN muons pt>3 GeV and abs(eta)<2.4
+
+filter_efficiency_Pythia_shape.txt
+----------------------------------
+This is the same, but without changing the Pythia
+pt(B) shape.  Not needed, just curiosity.
+
+weights_shapeOnly_2.8.txt
+-------------------------
+Weights as a function of Pt(B) to reshape Pythia to
+FONLL central/up/down.
+Careful, at high Pt stats are a problem, should
+maybe truncate to constant around ~ 30-40 GeV

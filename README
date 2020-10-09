@@ -1,0 +1,6 @@
+Utlities for normalizing the B->phi X MC.
+
+pptx :   method discussion
+FONLL:   cross-sections txt files from FONLL
+MC:      Unfiltered Pythia data, different phi masses
+results: Collection of numbers and tables to use
