@@ -1,0 +1,8 @@
+This contains the PRL and PRD from LHCb including
+the supplementary materials.
+
+In the supplementary material folders added code to
+write out text (csv) files with limits as a function
+of mass for different ctau:
+LHCb-PAPER-2015-036-supplementary/get_PRL_limits.C
+LHCb-PAPER-2016-052-supplementary/get_PRD_limits.C

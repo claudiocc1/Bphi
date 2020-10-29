@@ -1,4 +1,4 @@
-FONLL pt(B)>5 GeV abd(eta)<2.8:
+FONLL pt(B)>5 GeV abs(eta)<2.8:
 sigma = 1.33e+08 + 5.42e+07 - 4.05e+07 pb
 
 filter_efficiency_FONLL_shape.txt :
